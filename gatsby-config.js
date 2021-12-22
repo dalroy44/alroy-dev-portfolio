@@ -10,11 +10,11 @@ module.exports = {
     siteTitle: `Alroy`,
     siteTitleAlt: `Alroy - UI developer Portfolio`,
     siteHeadline: `Alroy - UI developer Portfolio`,
-    siteUrl: ``,
+    siteUrl: `https://alroy.dev`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: ``,
+    author: `@lekoarts_de`,
   },
   plugins: [
     {
